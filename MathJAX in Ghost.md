@@ -1,0 +1,3 @@
+LaTeX is one of the most important tools to master for an aspiring scientist. Writing out mathematical expressions is an absolute pain without it. Consequently, LaTeX is essential to any blog that discusses mathematics on a regular basis. 
+
+In WordPress, LaTeX integration is pretty simple - just a matter of installing a plugin. However, adding LaTeX to your Ghost blog is bit more involved. Initially I found some tutorials which described how to accomplish this, but for some reason or the other their solutions just didn't work for me.

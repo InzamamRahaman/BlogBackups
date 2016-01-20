@@ -1,0 +1,3 @@
+Whenever I code in a language that isn't an ML or Miranda dialect, there almost invariably comes a time when I wished functions in said language were curried by default. Sure in Scala, we can use specific syntax to declare a curried function, and in Racket and Clojure we have **curry** and **partial** as HOFs respectively, but at times those solutions seem inelegant to simply defining a function and knowing that it is curried by default. 
+
+Luckily, LISPs, by virtue of macros, allow us to dynamically extend the language, moulding it into a form more suitable for our tasks or more palatable to our tasks. Racket in particular has a rather extensive and powerful macro system - one that allows us to easily add the ability to define functions that are curried by default
